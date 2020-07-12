@@ -8,7 +8,10 @@ https://www.codewithamit.tk/
 above mentioned Website is truely Based on Web Development Programming Tutorial.
 
 Credits:
-Amit Salunkhe
-Full Stack Web Developer (MERN stack)
+
+Amit Salunkhe,
+
+Full Stack Web Developer (MERN stack),
+
 Portfolio : https://www.amitsalunkhe.com/
 
